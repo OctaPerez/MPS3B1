@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474194481299",
+    "project_id": "mi-pais-soniado",
+    "storage_bucket": "mi-pais-soniado.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474194481299:android:085c67a004bfc688017d66",
+        "android_client_info": {
+          "package_name": "com.example.mipaissoado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474194481299-s4dvln435j6ansaa3104i0mgmab8pstn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaGRH08t_YnL6V9FKHgi2SeKZmAiDHiqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474194481299-s4dvln435j6ansaa3104i0mgmab8pstn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

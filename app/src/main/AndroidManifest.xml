@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mipaissoado">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".Argentina"></activity>
+        <activity android:name=".RegisterUser" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".PaginaPrincipal" />
+        <activity android:name=".Norteamerica" />
+        <activity android:name=".Sudamerica" />
+        <activity android:name=".Oceania" />
+        <activity android:name=".Asia" />
+        <activity android:name=".Europa" />
+        <activity android:name=".Africa" />
+        <activity
+            android:name=".AuthActivity"
+            android:theme="@style/splashtheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
